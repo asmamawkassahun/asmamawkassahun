@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Asmamaw-Kassahun
-- 👀 I’m interested in front end development, back end development and web application development
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on front end development, back end development and web application development
-- 📫 How to reach me email me @ akassahun2023@gmail.com
-- 😄 Pronouns: he
-- ⚡ Fun fact: ...
+- Hi, I'm Asmamaw Kassahun
+- Passionate about Backend Development, Frontend Development, and Building Modern Web Applications
+- Interested in Software Architecture, Scalable Systems, and Full-Stack Development
+- Open to collaborating on web development and open-source projects
+- Reach me at: akassahun2023@gmail.com
+- Pronouns: He/Him
 
 <!---
 Asmamaw-cloud/Asmamaw-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
