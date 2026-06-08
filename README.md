@@ -1,5 +1,5 @@
 - Hi, I'm Asmamaw Kassahun
-- Passionate about Backend Development, Frontend Development, and Building Modern Web Applications
+- Full-Stack Developer with a strong focus on Backend Engineering
 - Interested in Software Architecture, Scalable Systems, and Full-Stack Development
 - Open to collaborating on web development and open-source projects
 - Reach me at: akassahun2023@gmail.com
