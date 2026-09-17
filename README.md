@@ -15,12 +15,6 @@
     alt="GitHub Stats"
   />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmamawkassahun&langs_count=8&hide_border=true&theme=transparent"
-  height="180"
-  alt="Top Languages"
-/>
-
 </p>
 
 <p align="center">
@@ -31,23 +25,6 @@
   />
 </p>
 
-* Hi, I'm Asmamaw Kassahun
-* Full-Stack Developer with a strong focus on Backend Engineering
-* Interested in Software Architecture, Scalable Systems, and Full-Stack Development
-* Open to collaborating on web development and open-source projects
-* Reach me at: akassahun2023@gmail.com
-* Pronouns: He/Him
-
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</div>
 <!---
 Asmamaw-cloud/Asmamaw-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
