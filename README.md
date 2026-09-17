@@ -16,9 +16,9 @@
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmamawkassahun&layout=compact&hide_border=true&theme=transparent"
- height="180"
- alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmamawkassahun&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+  height="180"
+  alt="Top Languages"
 />
 
 </p>
@@ -30,17 +30,6 @@
     alt="GitHub Streak"
   />
 </p>
-
-
-GitHub Analytics
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=asmamawkassahun&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" height="180" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmamawkassahun&layout=compact&langs_count=8&hide_border=true&theme=transparent" height="180" alt="Top Languages" />
-
-</p>
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=asmamawkassahun&hide_border=true&theme=transparent" height="180" alt="GitHub Contribution Streak" /> </p>
 
 
 <!---
