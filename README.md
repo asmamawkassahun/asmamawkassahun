@@ -31,6 +31,24 @@
   />
 </p>
 
+* Hi, I'm Asmamaw Kassahun
+* Full-Stack Developer with a strong focus on Backend Engineering
+* Interested in Software Architecture, Scalable Systems, and Full-Stack Development
+* Open to collaborating on web development and open-source projects
+* Reach me at: akassahun2023@gmail.com
+* Pronouns: He/Him
+
+## GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=asmamawkassahun&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmamawkassahun&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</div>
+
 
 <!---
 Asmamaw-cloud/Asmamaw-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
